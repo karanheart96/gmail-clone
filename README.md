@@ -1,4 +1,4 @@
-Checkout he app : https://clone-f59e0.web.app/
+Checkout the app : https://clone-f59e0.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
