@@ -1,5 +1,7 @@
 Checkout the app : https://clone-f59e0.web.app/
 
+AWS Link : https://main.d13qpjcaujr8i2.amplifyapp.com/
+
 Tech Stack Used:
 
     React JS
